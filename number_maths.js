@@ -1,13 +1,13 @@
-// const score=400;
-// const balance=new Number(100);
-// console.log(balance);
+const score=400;
+const balance=new Number(100);
+console.log(balance);
 
-// console.log(balance.toString.length);
-// const othernumber=23.897654;
-// console.log(othernumber.toPrecision(3))
+console.log(balance.toString.length);
+const othernumber=23.897654;
+console.log(othernumber.toPrecision(3))
 
-// const thirdnumber=1000000;
-// console.log(thirdnumber.toLocaleString('en-IN'));
+const thirdnumber=1000000;
+console.log(thirdnumber.toLocaleString('en-IN'));
 
 // maths library
 console.log(Math);
